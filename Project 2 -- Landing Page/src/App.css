@@ -71,3 +71,16 @@ button:nth-child(2){
   font-weight: 500;
   font-size: 1rem;
 }
+
+.hero-img{
+  animation: updown 1.25s linear infinite alternate;
+}
+
+@keyframes updown {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(15px);
+  }
+}
