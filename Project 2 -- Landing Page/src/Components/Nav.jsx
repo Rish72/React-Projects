@@ -11,7 +11,7 @@ function Nav() {
         <li>CONTACT</li>
       </ul>
 
-      <button>Login</button>
+      <button className="login">Login</button>
     </nav>
   );
 }

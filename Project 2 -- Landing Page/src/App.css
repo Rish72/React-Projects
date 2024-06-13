@@ -20,10 +20,17 @@ nav ul{
    list-style: none;
 }
 
-button{
+.login{
   all: unset;
   padding: 6px 16px;
   background: rgb(195, 62, 62);
   color: white;
   font-weight: 500;
+}
+
+/* --------------------------------------------- */
+main{
+  display: flex;
+  border: 2px solid red;
+  box-sizing: border-box;
 }
