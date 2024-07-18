@@ -1,0 +1,18 @@
+.form {
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+}
+
+.form .formDiv {
+    display: flex;
+    margin-left: 3rem;
+    width: 50%;
+}
+form input {
+ display: flex;
+ flex-direction: column;
+}
+.form img{
+    width: 550px;
+}

@@ -1,0 +1,7 @@
+.btn button{
+    all: unset;
+    background: #000;
+    color: white;
+    font-weight: 500;
+    padding: 8px 16Px;
+}
